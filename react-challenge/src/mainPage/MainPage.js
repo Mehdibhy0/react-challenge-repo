@@ -1,7 +1,11 @@
+import LeftNavbar from "../leftNavbar/LeftNavbar";
+import MovieList from "../movieList/MovieList";
+import "./MainPage.css";
 const MainPage = () => {
   return (
     <div className="mainPage">
-      <h1>sup</h1>
+      <LeftNavbar />
+      <MovieList />
     </div>
   );
 };
