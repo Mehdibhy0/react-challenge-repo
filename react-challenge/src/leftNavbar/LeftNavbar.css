@@ -1,6 +1,8 @@
 .LeftNavbar{
-    background-color: rgb(66, 63, 63);
+    background-color: #2a303a;
     height: 100%;
-    width: 10%;
+    width: 7%;
+border-bottom-left-radius: 3px;
+border-top-left-radius: 3px;
    
 }

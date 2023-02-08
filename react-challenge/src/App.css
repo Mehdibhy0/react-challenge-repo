@@ -1,6 +1,9 @@
 .App{
- height: 435px;
-width: 790px;
-   background-image: linear-gradient(to bottom , rgb(35, 18, 74), rgb(62, 114, 89));
-  margin: auto;
+    height: 435px;
+    width: 790px;
+    background-image: linear-gradient(to bottom , rgb(35, 18, 74), rgb(62, 114, 89));
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
