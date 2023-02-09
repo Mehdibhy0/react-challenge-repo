@@ -1,0 +1,21 @@
+.links{
+    display: flex;
+    flex-direction: column;
+    height: max-content;
+    color:white;
+
+}
+.links:active{
+    color: #43d3a0;
+}
+.icon{
+  font-size: 5px;
+}
+.list{
+    height: max-content;
+}
+.labels{
+    font-size: 7px;
+    margin-top: 0;
+    margin-bottom:0 ;
+}
